@@ -1,8 +1,8 @@
 # Parking Spot
 # 🚧 Sobre o Projeto
 
-Refere-se a uma API de controle de estacionamento, podendo ser aplicado em condominios para gerenciar as vagas.
-Vinculando as mesmas aos responsaveis, placa do veiculo, apartamento e bloco.
+Refere-se a uma API de controle de estacionamento, podendo ser aplicado em condomínios para gerenciar as vagas.
+Vinculando as mesmas aos responsáveis, placa do veículo, apartamento e bloco.
 
 # 📋 Requisitos
 
